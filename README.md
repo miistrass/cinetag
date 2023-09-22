@@ -10,7 +10,7 @@
 ### Status
 
 Concluído ✅
-<p> Você pode visualizar o projeto clicando aqui [Cinetag](https://cinetag-lyart.vercel.app/)
+Você pode visualizar o projeto clicando aqui [Cinetag](https://cinetag-lyart.vercel.app/)
 
 ---
 
